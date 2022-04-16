@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-tasks-plus",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A plugin to help you manage your tasks.",
 	"main": "main.js",
 	"scripts": {
